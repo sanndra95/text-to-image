@@ -1,0 +1,9 @@
+__pycache__/
+.idea/
+scrapinInsta/data/
+scrapinInsta/.idea
+*.log
+very_large_data/
+*.h5
+*.npy
+*.exe
